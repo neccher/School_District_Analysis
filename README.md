@@ -29,3 +29,19 @@ After all of our hard work in the initial analyis of school data, we were made a
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
   - While Thomas High wasn't quite in the bottom five schools for overall performance before removing the ninth graders, it was close.  Their Overall Psasing Percentage was 65%. After removing the ninth graders, however, Overall Passing Percentage shot up to almost 91% and put Thomas High School in second place for overall performance!
   (After taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113431394-4f09eb80-93a1-11eb-8b15-3a0131e1827f.png)
+
+- Math and reading scores by grade
+  - The only effect on scores by grade is now the fraudulent scores for ninth graders at Thomas High are replaced with "nan".
+  (Math Scores by Grade)![image](https://user-images.githubusercontent.com/79211628/113431704-c0e23500-93a1-11eb-9e15-61391e32ee60.png)
+  
+  (Reading Scores by Grade)![image](https://user-images.githubusercontent.com/79211628/113431751-d6575f00-93a1-11eb-9c2c-43dd1cad9a8a.png)
+  
+- Scores by school spending
+  - Again, due to formatting the table to only one decimal point, we are unable to see any effect from removing the Thomas High ninth graders.  However, after removing the formatting, we can see that there was a small impact within the $630-645 bucket.
+  
+  (Before taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113432676-6d70e680-93a3-11eb-8976-a8689cae2388.png)
+
+  (After taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113432719-824d7a00-93a3-11eb-8a06-75a7832f7b81.png)
+
+
+
