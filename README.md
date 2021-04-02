@@ -37,11 +37,15 @@ After all of our hard work in the initial analyis of school data, we were made a
   (Reading Scores by Grade)![image](https://user-images.githubusercontent.com/79211628/113431751-d6575f00-93a1-11eb-9c2c-43dd1cad9a8a.png)
   
 - Scores by school spending
-  - Again, due to formatting the table to only one decimal point, we are unable to see any effect from removing the Thomas High ninth graders.  However, after removing the formatting, we can see that there was a small impact within the $630-645 bucket.
+  - Again, due to formatting the table to only one decimal point, we are unable to see any effect from removing the Thomas High ninth graders.  However, after removing the formatting, we can see that there was a small impact within the $630-645 bucket.  This is expected as Thomas High School has a budget of $638 per student.
   
   (Before taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113432676-6d70e680-93a3-11eb-8976-a8689cae2388.png)
 
   (After taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113432719-824d7a00-93a3-11eb-8a06-75a7832f7b81.png)
+  
+- Scores by school size
+  - The effect continues to be minimal.  We must remove the formatting again to see any change in the data.  This time it is in the Medium bucket as Thomas High School has 1635 students.
 
+  (Before taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113433305-90e86100-93a4-11eb-8f53-2301cf8941fb.png)
 
-
+  (After taking out ninth graders at Thomas High)![image](https://user-images.githubusercontent.com/79211628/113433269-7910dd00-93a4-11eb-875f-a43ff3c8fda3.png)
